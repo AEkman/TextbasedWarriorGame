@@ -1,0 +1,6 @@
+C:\C#\TextbasedWarriorGame\TextbasedWarriorGame\bin\Debug\TextbasedWarriorGame.exe.config
+C:\C#\TextbasedWarriorGame\TextbasedWarriorGame\bin\Debug\TextbasedWarriorGame.exe
+C:\C#\TextbasedWarriorGame\TextbasedWarriorGame\bin\Debug\TextbasedWarriorGame.pdb
+C:\C#\TextbasedWarriorGame\TextbasedWarriorGame\obj\Debug\TextbasedWarriorGame.csprojResolveAssemblyReference.cache
+C:\C#\TextbasedWarriorGame\TextbasedWarriorGame\obj\Debug\TextbasedWarriorGame.exe
+C:\C#\TextbasedWarriorGame\TextbasedWarriorGame\obj\Debug\TextbasedWarriorGame.pdb
